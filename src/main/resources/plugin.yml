@@ -1,0 +1,9 @@
+name: FactionPerms
+version: 1.0.0-SNAPSHOT
+description: Faction Permissions
+author: Nick D
+dependencies: [Factions]
+main: com.oneshotmc.factionperms.FPerms
+commands:
+  test:
+    description: manager command
